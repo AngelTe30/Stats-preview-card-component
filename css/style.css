@@ -27,7 +27,7 @@ body{
 }
 
 .card .head{
-    background-image: url(/images/image-header-mobile.jpg);
+    background-image: url(../images/image-header-mobile.jpg);
     background-size: cover;
     height: 14.375rem;
     width: 100%;
@@ -114,7 +114,7 @@ footer .attribution a{
         flex-direction: row-reverse;
     }
     .card .head{
-        background-image: url(/images/image-header-desktop.jpg);
+        background-image: url(../images/image-header-desktop.jpg);
         height: 100%;
         background-size: cover;
     }
