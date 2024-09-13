@@ -135,6 +135,7 @@ margin: 3rem 3rem;
 
     }
     .info section .stats{
+        text-align: left;
         margin-left: 0;
     }
     
